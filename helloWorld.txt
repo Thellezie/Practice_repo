@@ -1,0 +1,1 @@
+This is a sample document to upload in the repository in git.
